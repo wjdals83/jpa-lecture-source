@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d239397d-f53c-4090-ab06-73e313ae5fe1" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../chap02-mapping-lecture-source/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../chap02-mapping-lecture-source/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap06-spring-data-jpa-lecture-source/src/main/java/com/ohgiraffers/springdatajpa/menu/controller/MenuController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chap06-spring-data-jpa-lecture-source/src/main/java/com/ohgiraffers/springdatajpa/menu/controller/MenuController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap06-spring-data-jpa-lecture-source/src/main/java/com/ohgiraffers/springdatajpa/menu/entity/Menu.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chap06-spring-data-jpa-lecture-source/src/main/java/com/ohgiraffers/springdatajpa/menu/entity/Menu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap06-spring-data-jpa-lecture-source/src/main/java/com/ohgiraffers/springdatajpa/menu/model/service/MenuService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chap06-spring-data-jpa-lecture-source/src/main/java/com/ohgiraffers/springdatajpa/menu/model/service/MenuService.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="2hrK5th9WRV7PJhHmo0yEozr5Zc" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Lecture/13_jpa/01_lecture-source/paractice-jpa/project-jpa02",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d239397d-f53c-4090-ab06-73e313ae5fe1" name="Changes" comment="" />
+      <created>1718346575330</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1718346575330</updated>
+      <workItem from="1718346576374" duration="26000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
