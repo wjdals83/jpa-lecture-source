@@ -39,7 +39,7 @@ public class MenuController {
     }
 
     @GetMapping("/list")
-    public String findAllMenus(Model model, @PageableDefault Pageable pageable) {
+    public String findAllMenus(Model model, @PageableDefault(size = 5) Pageable pageable) {
 
         Page<MenuDTO> menuList = service.findMenuList(pageable);
 
